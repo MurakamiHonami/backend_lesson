@@ -1,0 +1,11 @@
+{
+  "name": "go-learning-products-console",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node backend/end/app.mjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
